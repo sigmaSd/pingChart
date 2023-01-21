@@ -1,0 +1,41 @@
+[
+  {
+    "title": "Cefotaxime 3g",
+    "startDate": "2023-01-07",
+    "endDate": "2023-01-10"
+  },
+  {
+    "title": "Metronidazole 1g",
+    "startDate": "2023-01-07",
+    "endDate": "2023-01-10",
+    "offsetY": 0.5
+  },
+  {
+    "title": "Gentamicine 120mg",
+    "startDate": "2023-01-07",
+    "endDate": "2023-01-10",
+    "offsetY": 1
+  },
+  {
+    "title": "Levofloxacin 500mg",
+    "startDate": "2023-01-10",
+    "endDate": "2023-01-14"
+  },
+  {
+    "title": "Pipéracilline / Tazobactam 4g/500mg",
+    "startDate": "2023-01-10",
+    "endDate": "2023-01-14",
+    "offsetY": 0.5
+  },
+  {
+    "title": "Teicoplanine 400mg",
+    "startDate": "2023-01-14",
+    "endDate": "2023-01-20"
+  },
+  {
+    "title": "Ceftriaxone 2g",
+    "startDate": "2023-01-14",
+    "endDate": "2023-01-20",
+    "offsetY": 0.5
+  }
+]

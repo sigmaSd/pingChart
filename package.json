@@ -1,0 +1,21 @@
+{
+  "name": "chartjs-example",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "dev": "concurrently -k \"deno run --unstable -A ping.ts\"  \"parcel src/index.html\"",
+    "build": "parcel build src/index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  },
+  "dependencies": {
+    "@cubejs-client/core": "^0.31.0",
+    "chart.js": "^4.0.0",
+    "chartjs-adapter-date-fns": "^3.0.0",
+    "chartjs-plugin-annotation": "^2.1.2",
+    "chartjs-plugin-streaming": "^2.0.0",
+    "concurrently": "^7.6.0",
+    "date-fns": "^2.29.3"
+  }
+}
